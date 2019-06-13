@@ -5,7 +5,7 @@ Datepicker component is based on [flatpickr](https://github.com/chmln/flatpickr)
 ## Installation
 
 ```
-$ npm install vue-bulma-datepicker --save
+$ yarn add deckar01-vue-bulma-datepicker
 ```
 
 ## Examples
@@ -18,7 +18,7 @@ $ npm install vue-bulma-datepicker --save
 </template>
 
 <script>
-import Datepicker from 'vue-bulma-datepicker'
+import Datepicker from 'deckar01-vue-bulma-datepicker'
 
 export default {
   components: {
@@ -39,7 +39,7 @@ export default {
 </template>
 
 <script>
-import Datepicker from 'vue-bulma-datepicker'
+import Datepicker from 'deckar01-vue-bulma-datepicker'
 
 export default {
   components: {
